@@ -135,7 +135,7 @@ button{
   height: auto;
 }
 .header_wrapper .navbar-toggler{
-  color:#BDC3C7;
+  color:#fff;
 }
 .header_wrapper .nav-item{
   margin:0 10px;
@@ -174,7 +174,7 @@ button{
   width:100%;
   background-color: #333333;
   -webkit-box-shadow:0 4px 6px black;
-  box-shadow: 0 4px 6px black;
+  box-shadow: 0 4px 6px #333333;
 
 }
 .header_scrolled .nav-item .nav-link.active::after,
@@ -261,7 +261,7 @@ button{
   overflow: hidden;
   border: 1px solid var(--secondary-color);
   cursor: pointer;
-  box-shadow: 0 0 16px 4px var(--secondary-text);
+  box-shadow: 0 0 16px 4px #666666;
 
 }
 .portfolio_wrapper .card span{
