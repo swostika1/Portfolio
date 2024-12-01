@@ -154,7 +154,7 @@ button{
   left:0;
   width:0;
   height:2px;
-  background: var(--secondary-color);
+  background: #fff;
   transition: 0.3s;
   bottom:0;
 }
@@ -194,7 +194,7 @@ button{
   background-size: cover;
   background-attachment: fixed;
   padding: 200px 0 100px 0;
-
+  
 
 }
 /*About */
