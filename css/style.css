@@ -110,7 +110,7 @@ p{
   font-size: 16px;
   margin-bottom:12px;
   background-color: var(--primary-text);
-  -webkit-background-clip:text;
+  -webkit-background-clip: text;
   -webkit-animation-fill-color: transparent;
 }
 input:hover,
@@ -188,7 +188,7 @@ button{
   width: 100%;
   height:auto;
   min-height: 800px;
-  background-image: url('../images/mandalay-lake-monochrome.jpg');
+  background-image: url('../images/hero.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
